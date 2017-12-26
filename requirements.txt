@@ -1,0 +1,6 @@
+tushare>1.0.7
+bs4
+openpyxl
+tornado
+pycurl
+flask
